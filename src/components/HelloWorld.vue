@@ -43,7 +43,7 @@
 						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;渐渐地，对<code>Vue.js</code>越来越熟练，越来越喜欢，便开始学习使用Vue.js的一些生态和UI框架：<code>Vuex、VUX、ElementUI、iView、Mint UI</code>等，并用于实际项目中。</p>
 						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;再后来，接触了<code>ES6</code>，对它的新特性也一下子喜欢上了：箭头函数、变量声明、解构、Set和Map数据结构、Promise对象、循环遍历等等。</p>
 						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目中还掌握使用了<code>SVN、git、Echart、Highcharts、百度地图API、腾讯地图API、SEO、前端提高网站性能</code>等</p>
-						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工作之余学习了<code>node.js、Express、MongoDB</code>，阅读了《高性能网站建设指南》、《JavaScript语言精粹》、《JavaScript高级程序设计》，《JavaScript权威指南》还在阅读中，此外，遇到问题我也会记录到博客，方便下次不再采坑，同时也给遇到同样问题的同行提供一点建议，博客地址：<code>http://www.cnblogs.com/zlfProgrammer/</code></p>
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工作之余学习了<code>node.js、Express、MongoDB</code>，以及<code>微信小程序</code>阅读了《高性能网站建设指南》、《JavaScript语言精粹》、《JavaScript高级程序设计》，《JavaScript权威指南》还在阅读中，此外，遇到问题我也会记录到博客，方便下次不再采坑，同时也给遇到同样问题的同行提供一点建议，博客地址：<code>http://www.cnblogs.com/zlfProgrammer/</code></p>
 						<p>个人评价: </p>
 						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;热爱编程，善于学习新技术；有较强的自学能力和适应能力；能够与团队友好协作，共同进步。</p>
 						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>最后：咖啡泡面已备好，随时迎接新的挑战！</code></p>
