@@ -1,6 +1,6 @@
 # resume
 
-> 基于vue的动态就简历， 预览 http://htmlpreview.github.io/?https://github.com/zhuDadaa/resume/blob/master/preview/index.html
+> 基于vue的动态就简历， 预览 https://zhudadaa.github.io/resume/preview/index.html
 
 ## Build Setup
 
